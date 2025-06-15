@@ -167,8 +167,8 @@
    - 项目仓库: https://github.com/JayMuShui/chinese-global-compliant-geodata/
    - 修改时间: 2025-06-12 04:52:00 UTC
    - 修改内容：
-   ·1.将`pinyin`替换为`english`并纠正译名
-   ·2.删去`filename`项，`fullname`键名更改为`full_name`
-   ·3.`code`更正为`gb`,并添加中国的 ISO 3166-1 数字代码`156`作为前缀并纠正正确的国标码
-   ·4.将Feature按照国标码排序
-   ·5.调整了部分键名的先后顺序
+      - 1.将`pinyin`替换为`english`并纠正译名
+      - 2.删去`filename`项，`fullname`键名更改为`full_name`
+      - 3.`code`更正为`gb`,并添加中国的 ISO 3166-1 数字代码`156`作为前缀并纠正正确的国标码
+      - 4.将Feature按照国标码排序
+      - 5.调整了部分键名的先后顺序

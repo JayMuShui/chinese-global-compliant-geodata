@@ -51,7 +51,7 @@
 
 ### 关于台湾地区主权声明
 
-[🔗台湾地区主权声明](provinces\taiwan\README.md#关于主权声明)
+[🔗台湾地区主权声明](region\tw\README.md#关于主权声明)
 
 ### 关于藏南地区主权声明
 
